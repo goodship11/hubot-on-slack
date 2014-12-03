@@ -1,0 +1,1 @@
+/usr/local/hubot/hubot-slack/bin/hubot --adapter slack
